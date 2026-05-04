@@ -1,3 +1,6 @@
-node_modules/
-target/
-.env
+# Java / Maven
+/target
+*.iml
+*.class
+/.idea
+/.vscode
