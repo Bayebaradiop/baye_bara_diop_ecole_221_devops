@@ -1,3 +1,13 @@
-node_modules/
-target/
-.env
+# Java / Maven
+/target
+*.iml
+*.class
+/.idea
+/.vscode
+
+# Node / Frontend
+/frontend/node_modules
+/frontend/dist
+
+# Docker
+*.log
